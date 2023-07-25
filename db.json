@@ -20,7 +20,6 @@
       "type": "thaar",
       "link": "PLCLU5I9UxamMjOF8BHKiO1dN5IZMmx2Ip"
     },
-    
      {
       "id": 5,
       "type": "relationships",
@@ -39,6 +38,6 @@
   ],
   "dumy_array": {
     "name": "typicode",
-    "test" "test value"
+    "test": "test value"
   }
 }
