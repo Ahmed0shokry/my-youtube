@@ -1,11 +1,44 @@
 {
-  "posts": [
+  "channels": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "type": "motivation",
+      "link": "PLAmSF7iu6SsGV18D_ds12B6Ld99BuLqFk"
+    },
+     {
+      "id": 2,
+      "type": "bookSummery",
+      "link": "PLI0Dv6JY8Q-I6ec_YhIm_rKxqg2KKVqs9"
+    },
+     {
+      "id": 3,
+      "type": "focusedOn",
+      "link": "PLHZZH5KCNXeVyHmZfsG6_68C8Ueunpt06"
+    },
+    {
+      "id": 4,
+      "type": "thaar",
+      "link": "PLCLU5I9UxamMjOF8BHKiO1dN5IZMmx2Ip"
+    },
+    
+     {
+      "id": 5,
+      "type": "relationships",
+      "link": "PL_Ay2kKzhEvpZnM4yKkd7TjAt0oTvpV7G"
+    },
+     {
+      "id": 6,
+      "type": "night",
+      "link": "PLosaC3gb0kGBBVMRvBn5m2CHxKluMLcYB"
+    },
+    {
+      "id": 7,
+      "type": "watchLate",
+      "link": "WL"
+    },
   ],
-  "profile": {
-    "name": "typicode"
+  "dumy_array": {
+    "name": "typicode",
+    "test" "test value"
   }
 }
